@@ -21,3 +21,8 @@ This project implements a Decision Tree classifier using scikit-learn for machin
 - **Performance Metrics**: Accuracy, Precision, Recall, F1-score, and Confusion Matrix
 - **Preprocessing**: Handles missing values, categorical encoding, and feature scaling
 
+## OUTPUT
+
+![Image](https://github.com/user-attachments/assets/fe5a4ccd-fc27-45b5-85ef-6b51fb863753)
+
+![Image](https://github.com/user-attachments/assets/117401e4-a063-401e-8c2f-dd6b70f578a2)
